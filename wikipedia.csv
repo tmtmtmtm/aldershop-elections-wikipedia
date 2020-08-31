@@ -1,6 +1,6 @@
 id,name,party,partyLabel,votes,election,electionLabel,ranking
-Q3443398,Roundell Palmer,Q9626,Unionist Party (UK),8755,Q3042701,1918,1
-,Harry Ainger,Q622441,Liberal Party (UK),3342,Q3042701,1918,2
+Q3443398,Roundell Palmer,Q9626,Unionist Party (UK),8755,Q3042701,1918 general election,1
+,Harry Ainger,Q622441,Liberal Party (UK),3342,Q3042701,1918 general election,2
 Q3443398,Roundell Palmer,Q9626,Unionist Party (UK),10952,Q3084303,1922 general election,1
 ,Harry Ainger,Q622441,Liberal Party (UK),5296,Q3084303,1922 general election,2
 Q3443398,Roundell Palmer,Q9626,Unionist Party (UK),9131,Q3084294,1923 general election,1
